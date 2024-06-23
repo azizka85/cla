@@ -1,0 +1,11 @@
+[package]
+name = "cla"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+  "chapter_1_matrix_multiplication", 
+  "matrix_multiplication"
+]
+
